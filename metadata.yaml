@@ -1,0 +1,52 @@
+_repo: Christ-Legends_44818
+_version: 0.1.0
+alternative_title: Kristuslegender. English
+contributor:
+  illustrator:
+    agent_name: Stuart, Bertha
+    birthdate: 1869
+    deathdate: 1953
+    gutenberg_agent_id: '33734'
+    url: http://www.gutenberg.org/2009/agents/33734
+  translator:
+    agent_name: Howard, Velma Swanston
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '4490'
+    url: http://www.gutenberg.org/2009/agents/4490
+covers:
+- cover_type: archival
+  image_path: 44818-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerlof, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2014-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcsh 'Jesus Christ -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+tableOfContents: The holy night -- The emperor's vision -- The wise men's well --
+  Bethlehem's children -- The flight into Egypt -- In Nazareth -- In the temple --
+  Saint Veronica's kerchief -- Robin Redbreast -- Our Lord and Saint Peter -- The
+  sacred flame.
+title: Christ Legends
+url: http://www.gutenberg.org/ebooks/44818
